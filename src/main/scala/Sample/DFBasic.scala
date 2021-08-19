@@ -15,4 +15,6 @@ object DFBasic {
       .option("inferSchema", "true")
       .csv(dataFile)
   }
+
+  def countEmployeeBy(spark: SparkSession)
 }
