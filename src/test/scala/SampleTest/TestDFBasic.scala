@@ -22,5 +22,5 @@ class TestDFBasic extends FunSuite with BeforeAndAfterAll {
     assert(countDF==8, "record should be 8")
   }
 
-  test("")
+
 }
